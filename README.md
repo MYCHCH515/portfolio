@@ -9,5 +9,5 @@
 ## 🛠 토이 프로젝트
 서비스명 | Repository | Service |
 :---: | :---: | :---: | 
-domino_project | [링크](https://github.com/MYCHCH515/Study_project) | - |
-study_project  | [링크](https://github.com/MYCHCH515/domino_project) | - |
+domino_project | [링크](https://github.com/MYCHCH515/domino_project) | - |
+study_project  | [링크](https://github.com/MYCHCH515/Study_project) | - |
